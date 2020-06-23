@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: powderblue;
+  color: $gray-darker;
+  font-family: 'Open Sans', sans-serif;
+}
